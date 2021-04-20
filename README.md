@@ -24,7 +24,7 @@ python model.py
 
 Execute the following commands to create the image
 ```
-docker build --pull --rm -f "Dockerfile" -t aiworkflowcapstone:latest "."
+docker build --pull --rm -f "Dockerfile" -t aiworkflowcapstonesanujit:latest "."
 ```
 
 Verify if the image was created successfully
