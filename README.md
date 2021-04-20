@@ -34,7 +34,7 @@ docker image ls
 
 Run the image in a container
 ```
-docker run -p 5000:5000 aiworkflowcapstone
+docker run -p 5000:5000 aiworkflowcapstonesanujit
 ```
 
 and then open http://localhost:5000/ in your browser to check if the application is running.

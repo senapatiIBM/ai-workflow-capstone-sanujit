@@ -1,0 +1,9 @@
+unique_id,timestamp,x_shape,eval_test,model_version,model_version_note,runtime
+1dfede95-8e28-4c8c-bb2d-6f7d8cb3e421,1618369901.046229,"('2017-11-30', '2019-05-31')",{'rmse': 111},0.1,supervised learing model for time-series,000:00:04
+ace4d5e3-11b7-4bb7-ba63-ce7918a78fc9,1618457347.3810592,"('2017-11-30', '2019-05-31')",{'rmse': 129},0.1,supervised learing model for time-series,000:00:05
+986af2db-1893-408a-8ab7-273e7fcd6762,1618679387.0194018,"('2017-11-30', '2019-05-31')",{'rmse': 129},0.1,supervised learing model for time-series,000:00:05
+5ef0f751-c642-47a5-b8e0-1a8be8b43d05,1618679752.6358852,"('2017-11-30', '2019-05-31')",{'rmse': 143},0.1,supervised learing model for time-series,000:00:05
+2ec4d347-3948-450a-b727-33638e089b9b,1618680763.5564604,"('2017-11-30', '2019-05-31')",{'rmse': 104},0.1,supervised learing model for time-series,000:00:05
+7ca34b23-47b8-47b0-a262-46f51b4cfbdf,1618842169.045511,"('2017-11-30', '2019-05-31')",{'rmse': 134},0.1,supervised learing model for time-series,000:00:04
+b36e4b07-664c-491d-b7e6-81bebbd7e2ed,1618858929.7909315,"('2017-11-30', '2019-05-31')",{'rmse': 109},0.1,supervised learing model for time-series,000:00:06
+6171d9c5-bbf0-4217-a349-3e8d6352a713,1618892046.3712265,"('2017-11-30', '2019-05-31')",{'rmse': 128},0.1,supervised learing model for time-series,000:00:06
