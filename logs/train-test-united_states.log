@@ -1,2 +1,2 @@
 unique_id,timestamp,x_shape,eval_test,model_version,model_version_note,runtime
-0cbcda67-faaa-442b-984a-73bb65511931,1618887888.739853,"(100, 10)",{'rmse':0.5},0.1,supervised learing model for time-series,00:00:01
+d729a2f1-0a52-425e-9527-7c13a8258ad9,1618969216.1791742,"(100, 10)",{'rmse':0.5},0.1,supervised learing model for time-series,00:00:01

@@ -29,3 +29,5 @@ def208fd-436d-4726-960b-944649a22427,1618858953.274882,"('2017-11-29', '2019-05-
 0fb205d2-ca86-4469-8d60-fe41c85c71fd,1618887775.7240393,"('2017-11-29', '2019-05-31')",{'rmse': 32618},0.1,supervised learing model for time-series,000:00:04
 bbcee982-c488-4b7e-9c7e-7781ff27d588,1618887974.43859,"('2017-11-30', '2019-05-30')",{'rmse': 31712},0.1,supervised learing model for time-series,000:00:03
 adc5f2aa-9447-454d-a912-cde86335634d,1618892071.4157195,"('2017-11-29', '2019-05-31')",{'rmse': 16434},0.1,supervised learing model for time-series,000:00:05
+f340cde7-91aa-47ef-9eda-2ca120c1ceb2,1618969155.302992,"('2017-12-03', '2019-05-30')",{'rmse': 28835},0.1,supervised learing model for time-series,000:00:03
+2c94f96b-d526-4d98-8883-f88568b060f6,1618969300.5156243,"('2017-12-02', '2019-05-30')",{'rmse': 28302},0.1,supervised learing model for time-series,000:00:03
